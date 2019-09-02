@@ -19,7 +19,7 @@ To Start Server:
 
 To Visit App:
 
-`localhost:3000/movies`  
+`localhost:3000/`  
 
 
 #### Node - Server folder:
