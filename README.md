@@ -3,7 +3,7 @@ Technologies used - Node,Express,React
 
 ## Installation and Setup Instructions
 
-Clone down this repository. You will need `node` and `npm` installed globally on your machine and also mongod should be running.  
+Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
 
 #### React - Client folder:
 
